@@ -1,2 +1,2 @@
 # animated-potato
-my nix customization
+my some of my arch config files
