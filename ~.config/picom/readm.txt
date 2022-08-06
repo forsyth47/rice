@@ -1,0 +1,7 @@
+Location: "./config/"
+
+
+
+picom[remane].conf: contains shadow; might look cool :)
+
+picom.conf: jus transparent borders, also looks minmalstic ;)
