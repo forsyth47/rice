@@ -1,0 +1,23 @@
+____________________________________________________________________________________________________________________________
+
+sudo apt install i3	 				# Debian, Ubuntu, Linux Mint,...
+sudo pacman -S i3wm	 				# Arch Linux, Manjaro,...
+git clone https://github.com/terroo/i3-radius
+cd i3-radius && sh build.sh
+
+#Now for your i3wm to have spaces and round borders, you need to add these lines to your vim ~/.config/i3/config
+--------------------------------------------------------------------------------------------------------------
+	################## i3-gaps ########################
+for_window [class=".*"] border pixel 2 #*
+gaps inner 10
+gaps outer 1
+#gaps horizontal 2
+	################# i3-radius #######################
+smart_borders on
+smart_borders no_gaps
+border_radius 2
+
+____________________________________________________________________________________________________________________________
+
+I3-GAPS
+https://gist.github.com/chewwt/cbdb71b92b9a45e3ac9314e64c58cbf4
