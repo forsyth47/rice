@@ -28,4 +28,4 @@ Customizations especially for xfce4 [Mac/BigSur Themed.]
 Download Latest ZIP Pack: [rice main.zip](https://github.com/forsyth47/rice/archive/refs/heads/main.zip)
 
 
-**Made with ❤️ by Joshua code:)**
+**Made with ❤️ by Joshua :)**
