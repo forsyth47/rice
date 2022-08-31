@@ -25,7 +25,7 @@ Customizations especially for xfce4 [Mac/BigSur Themed.]
 
 >by downloading this zip pack:
 
-```https://github.com/forsyth47/rice/archive/refs/heads/main.zip```
+Download Latest ZIP Pack: [rice main.zip](https://github.com/forsyth47/rice/archive/refs/heads/main.zip)
 
 
 **Made with ❤️ by Joshua code:)**
