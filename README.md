@@ -14,4 +14,4 @@ Contains dot files and customization for Tiling WM like *i3, i3-gaps, qtile, bsp
 
 Customizations especially for xfce4 [Mac/BigSur Themed.]
 
-Made with ❤️ by Joshua :)
+**Made with ❤️ by Joshua :)**
