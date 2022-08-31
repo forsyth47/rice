@@ -206,7 +206,7 @@ bar {
 	#font pango:Inconsolata 10
         position top
 	tray_output none
-	status_command /home/alone/.local/bin/bumblebee-status \
+	status_command $HOME/.local/bin/bumblebee-status \
 		-m cpu memory battery date time \
 		-p root.path=/ time.format="%H:%M" date.format="%a, %b %d %Y" \
 		-t iceberg
