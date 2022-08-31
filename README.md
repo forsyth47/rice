@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rice ~ Made with ❤️ by Joshua</title>
-</head>
-<body>
-    
-</body>
-</html>
-
 # My Complete Linux Customization for Tiling WM [i3,qtile,bspwm] and Stacking WM [xfce4]
 
 **Common**
@@ -26,5 +13,19 @@ Contains dot files and customization for Tiling WM like *i3, i3-gaps, qtile, bsp
 **XFCE**
 
 Customizations especially for xfce4 [Mac/BigSur Themed.]
+
+
+**Download this pack**
+
+
+>by running this command:
+
+```git clone https://github.com/forsyth47/rice```
+
+
+>by downloading this zip pack:
+
+```https://github.com/forsyth47/rice/archive/refs/heads/main.zip```
+
 
 **Made with ❤️ by Joshua code:)**
