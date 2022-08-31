@@ -18,14 +18,10 @@ Customizations especially for xfce4 [Mac/BigSur Themed.]
 **Download this pack**
 
 
->by running this command:
-
-```git clone https://github.com/forsyth47/rice```
+>by running this command: ```git clone https://github.com/forsyth47/rice```
 
 
->by downloading this zip pack:
-
-Download Latest ZIP Pack: [rice main.zip](https://github.com/forsyth47/rice/archive/refs/heads/main.zip)
+>by downloading this zip pack: [rice main.zip](https://github.com/forsyth47/rice/archive/refs/heads/main.zip)
 
 
 **Made with ❤️ by Joshua :)**
