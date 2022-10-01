@@ -1,0 +1,16 @@
+#!/bin/sh
+
+read -p "[1] i3
+[2] xfce4
+[3] bspwm
+Boot into [1] [2] [3]: " answer
+
+
+if [[ $answer = 1 ]] ; then
+	exec i3
+elif [[ $answer = 2 ]] ; then
+	exec startxfce4
+elif
+	exec bspwm
+fi
+
